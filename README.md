@@ -20,7 +20,7 @@ Me chamo Mateus, tenho 18 anos e sou natural de São José dos Campos. Atualment
 
 ---
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 35px; justify-content: center;  padding: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;  padding: 20px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateussabr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussabr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
