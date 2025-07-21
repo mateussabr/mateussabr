@@ -102,3 +102,7 @@ Me chamo Mateus, tenho 18 anos e sou natural de São José dos Campos. Atualment
   />
 
 </p>
+
+### 🐍 Snake contrib graph
+
+![snake gif](https://github.com/mateussabr/mateussabr/blob/output/github-contribution-grid-snake.svg)
