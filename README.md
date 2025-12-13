@@ -6,7 +6,7 @@ Me chamo Mateus, tenho 18 anos e sou natural de São José dos Campos. Atualment
 
 ---
 
-<div  align="center" style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; justify-content: center; padding: 20px;">
+<div  align="center" style="display: flex; flex-wrap: wrap; gap: 100px; width: 100%; justify-content: center; padding: 20px;">
   <img title="HTML" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img title="CSS" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img title="JavaScript" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
